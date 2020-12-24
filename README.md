@@ -4,5 +4,5 @@
 
 ## alt_comp_plot.py について
 
-このプログラムは[Qiime2を用いた 16S rRNA 菌叢解析](https://qiita.com/keisuke-ota/items/6399b2f2f7459cd9e418)で得られた細菌群集データから、**Fimicutes** 門の構成率の分布を可視化することができます。
+このプログラムは[Qiime2を用いた 16S rRNA 菌叢解析](https://qiita.com/keisuke-ota/items/6399b2f2f7459cd9e418)で得られた細菌群集データから、*Fimicutes* 門の構成率の分布を可視化することができます。
 [Altair](https://altair-viz.github.io/index.html) は python のグラフ作成ライブラリで、[こちらの記事](https://qiita.com/keisuke-ota/items/80d64153c499c8cc4774)にも使用例を載せています。Pandas の DataFrame で可視化データを入力し、インターアクティブなグラフを作成することができるという特徴があります。
